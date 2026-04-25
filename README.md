@@ -1,4 +1,4 @@
-# 🏨 Cozy Rooms Management System
+# Cozy Rooms Management System
 
 The **Cozy Rooms Management System** is a web-based hotel management application developed as part of my internship at **OBAPS Global Technologies**.
 It is designed to streamline hotel operations by managing room bookings, billing, and administrative controls in a structured and secure manner.
@@ -7,32 +7,32 @@ This system focuses on real-world usability, ensuring efficient handling of cust
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-### 🔐 Secure Admin Authentication
+### Secure Admin Authentication
 
 * Password hashing for secure login
 * CSRF token validation to prevent unauthorized requests
 
-### 🛏️ Room Management
+### Room Management
 
 * Real-time tracking of room status (Available, Booked, Occupied)
 * Efficient allocation and updating of room details
 
-### 💰 Dynamic Billing System
+### Dynamic Billing System
 
 * Automatic calculation of room charges
 * GST (12%) integration
 * Additional charges for special services (pets, private pool, etc.)
 
-### 📊 User-Friendly Interface
+### User-Friendly Interface
 
 * Clean and intuitive dashboard for administrators
 * Easy navigation for managing bookings and customer records
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** PHP
@@ -41,7 +41,7 @@ This system focuses on real-world usability, ensuring efficient handling of cust
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project demonstrates practical implementation of:
 
@@ -53,7 +53,7 @@ It also reflects my ability to build industry-relevant solutions during my inter
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Parvathi B Krishnan**
 BSc Computer Science & Mathematics (Honours)
